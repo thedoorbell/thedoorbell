@@ -1,7 +1,7 @@
 # Hi there! I'm German! 👋
 
 
-## Currently studying frontend development
+## Frontend development
 
 A novice IT specialist with an engineering degree and some experience in developing and
 maintaining services.
