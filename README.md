@@ -1,7 +1,7 @@
 # Hi there! I'm German! 👋
 
 
-## Frontend development
+## Frontend developer
 
 A novice IT specialist with an engineering degree and some experience in developing and
 maintaining services.
