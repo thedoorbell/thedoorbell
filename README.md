@@ -12,4 +12,4 @@ maintaining services.
   * email: thedoorbell@yandex.ru
  
 ## My skills: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,vite,jest,bootstrap,git,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,vite,jest,bootstrap,git,vscode,ps,pr&perline=10)](https://skillicons.dev)
