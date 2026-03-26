@@ -8,9 +8,7 @@ maintaining services.
 
 #### My contacts:
 📍 **Location:** Russia, Kazan
-
 ✉️ **Email:** thedoorbell@yandex.ru
-
 💬 **Telegram:** [@thedoorbell](https://t.me/thedoorbell)
  
 ## My skills: 
