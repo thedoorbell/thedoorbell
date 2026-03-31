@@ -1,4 +1,4 @@
-# Hi, I'm German! 👋
+# Hi, I'm German!
 
 ## Frontend developer with some backend skills
 A novice IT specialist with an engineering degree and some experience in developing and
