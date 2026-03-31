@@ -3,7 +3,7 @@
 ## Frontend-developer with some backend skills
 Frontend developer with backend skills, an engineering background, and experience in developing and maintaining services. I enjoy working with visuals, user experience, and interfaces, seeing the results of my work in real time, and gradually building or refining various components that can enhance the customer experience and help businesses engage with their users.
 
-I took part in founding, building, and supporting a startup, after which I made a conscious decision to transition into development. I completed the "Fullstack Developer on Node.js" program at the Hexlet programming school, where I worked on six educational projects.
+I took part in founding, building, and supporting a startup, after which I made a conscious decision to transition into development. I completed the "Fullstack Developer on Node.js" program at the Hexlet programming school, where I worked on six educational projects. All of them you can see in my pinned repos below.
 
 #### My contacts:
 
